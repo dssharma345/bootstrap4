@@ -60,4 +60,7 @@ body{
     min-height: 300px;
 }
 
+.navbar-text{
+    cursor: pointer;
+}
 
